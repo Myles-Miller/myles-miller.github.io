@@ -1,0 +1,69 @@
+	h1{
+		font-family: Magneto;
+		font-size: 100px;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	h2{
+		font-family: Magneto;
+		font-size: 100;
+		margin-left: 25px;
+		margin-right: 20px;
+	}
+	p{
+		font-family: Magneto;
+	}
+		ul{
+		font-family: Dreaming Outloud Pro;
+		list-style-type: circle;
+	}
+	.div-main {
+  	margin-left: 20px;
+		margin-right: 20px;
+}
+.div-note {
+  font-style: bold;
+  padding: 8px;
+  margin-top: 20px;
+}
+	.quote{
+		font-family: Garamond;
+		font-style: italic;
+		margin-left: 50px;
+	}
+	
+table {
+  border-collapse: collapse;
+  width: 80%;
+  		margin-left: 20px;
+			margin-right: 20px;
+}
+
+td {
+  width: 100%;
+  vertical-align: top;
+}
+
+th, td {
+  text-align: left;
+  padding-left: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+th {
+	border-top: 3px solid orange;
+	border-bottom: 3px solid blue;
+}
+
+tr:nth-child(odd) {
+  background-color: #FFA500;
+}
+
+tr:nth-child(even) {
+  background-color: #00FFFF;
+}
+
+table tr:last-child {
+   border-bottom: 3px solid red;
+}
